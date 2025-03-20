@@ -3,7 +3,7 @@
 💻 Desarrollador especializado en **.NET** con experiencia en:  
 - 🛠 **Backend:** .NET | NHibernate ORM | Entity Framework | MSSQL Server  
 - 💾 **Sistemas Operativos:** Windows | Linux  
-- 🌐 **Frontend:** JavaScript | HTML | CSS | AngularJS | Angular | React  
+- 🌐 **Frontend:** HTML | CSS | JavaScript | NodeJS | AngularJS | Angular | React  
 - 🔗 **Control de versiones:** Git | GitHub  
 ---
 ## 📚 Estado Académico
@@ -23,7 +23,7 @@
 - 🔹 [Queries Microsoft SQL Server](https://github.com/ariel-gallardo/base-de-datos) | Complemento de queries para proyecto final FRM UTN MZA.
 - 🔹 [Alkemy Acceleration Csharp](https://github.com/ariel-gallardo/OT121-SERVER) | Patron Unit Of Work | Entity Framework | DI | .Net Core | Microsoft SQL Server DB | Swagger
 
-- 🔹 [Restaurante App](https://github.com/ariel-gallardo/restaurante) - AngularJS | Angular | React | .Net Core | WebSockets | Entity Framework | NHibernate | MSSQL DB | LINQ | Patron Repository | Swagger | Patron UnitOfWork
+- 🔹 [Restaurante App](https://github.com/ariel-gallardo/restaurante) - AngularJS | Angular | React | .Net Core | WebSockets | Entity Framework | NHibernate | MSSQL DB | LINQ | Patron Repository | Swagger | Patron UnitOfWork | Maps Google | Redis
 ![image](https://github.com/user-attachments/assets/9d8104f1-66f9-4adf-858c-68c2e2ff7f14)
 
 - 🔹 [Test A - CargoPay](https://github.com/ariel-gallardo/cargopay) - Entrevista tecnica C# | .NET | DI | MSSQL | LINQ
@@ -37,3 +37,4 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-alejandro-gallardo-dev/)  
 - [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariel.gallardo.dev@gmail.com)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492616557585)
+- [![Discord](https://img.shields.io/badge/Discord-Invitame-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1001120965650038904)
