@@ -18,6 +18,8 @@
 - 🔹 [Buscador Horas Catedras](https://voluble-duckanoo-6bb708.netlify.app/) - [Repositorio](https://github.com/ariel-gallardo/buscador-gobierno) | React | JSON
 - 🔹 [Angular Hero - Tutorial](https://modest-snyder-c038f2.netlify.app/heroes) - [Repositorio](https://github.com/ariel-gallardo/heroes-angular) | Angular | Bootstrap | Javascript | HTML | CSS
 - 🔹 [Musical Hendrix](https://kind-albattani-d52882.netlify.app/) - [Repositorio](https://github.com/ariel-gallardo/labo4-tp5) | React | Javascript | Bootstrap | CSS | HTML
+- 🔹 [React Hooks](https://react-hooks-ariel.vercel.app/) NextJS | React | TailwindCSS 
+- 🔹 [Curso Angular Avanzado - Signals | ssr ](https://curso-angular-avanzado-ariel.vercel.app/)
 ---
 ## 🚀 Algunos de mis proyectos destacados - Github Repo's
 - 🔹 [Queries Microsoft SQL Server](https://github.com/ariel-gallardo/base-de-datos) | Complemento de queries para proyecto final FRM UTN MZA.
@@ -28,7 +30,8 @@
 
 - 🔹 [Test A - CargoPay](https://github.com/ariel-gallardo/cargopay) - Entrevista tecnica C# | .NET | DI | MSSQL | LINQ
 - 🔹 [Test B - Axoft](https://github.com/ariel-gallardo/programming-test) - Entrevista tecnica Axoft
-
+- 🔹 [Test C - CargoPay - MySQL](https://github.com/ariel-gallardo/cargopay/tree/mysql) - Entrevista tecnica C# | .NET | DI | MySQL | LINQ
+- 🔹 [Test C - CargoPay - Angular](https://bitbucket.org/ariel-developer/technical-tests-frontend-ssr/src/development/) - Entrevista tecnica RxJS | PrimeNG | NgRx
 ---
 ## 📈 Mis estadísticas en GitHub  
 ![Ariel Gallardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariel-gallardo&show_icons=true&theme=dark)  
