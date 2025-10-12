@@ -24,7 +24,6 @@
 ## 🚀 Algunos de mis proyectos destacados - Github Repo's
 - 🔹 [Queries Microsoft SQL Server](https://github.com/ariel-gallardo/base-de-datos) | Complemento de queries para proyecto final FRM UTN MZA.
 - 🔹 [Alkemy Acceleration Csharp](https://github.com/ariel-gallardo/OT121-SERVER) | Patron Unit Of Work | Entity Framework | DI | .Net Core | Microsoft SQL Server DB | Swagger
-
 - 🔹 [Restaurante App](https://github.com/ariel-gallardo/restaurante) - AngularJS | Angular | React | .Net Core | WebSockets | Entity Framework | NHibernate | MSSQL DB | LINQ | Patron Repository | Swagger | Patron UnitOfWork | Maps Google | Redis
 ![image](https://github.com/user-attachments/assets/9d8104f1-66f9-4adf-858c-68c2e2ff7f14)
 
@@ -32,12 +31,16 @@
 - 🔹 [Test B - Axoft](https://github.com/ariel-gallardo/programming-test) - Entrevista tecnica Axoft
 - 🔹 [Test C - CargoPay - MySQL](https://github.com/ariel-gallardo/cargopay/tree/mysql) - Entrevista tecnica C# | .NET | DI | MySQL | LINQ
 - 🔹 [Test C - CargoPay - Angular](https://bitbucket.org/ariel-developer/technical-tests-frontend-ssr/src/development/) - Entrevista tecnica RxJS | PrimeNG | NgRx
+- 🔹 [Plantilla Clean Code](https://github.com/ariel-gallardo/clean-code) - Repositorio personal que aplica principios de Clean Code para crear software que es más fácil de leer, mantener y escalar. La adopción de este enfoque mejora la calidad del trabajo, acelera el desarrollo, reduce el tiempo de incorporación de nuevos desarrolladores y disminuye la aparición de errores.
+---
+## 📄 Mi Currículum
+- 🔗 [Ver mi currículum en PDF](https://drive.google.com/file/d/1eGGodC5nFatBOE1yX9K4fDSXZm5SHIXZ/view?usp=drive_link)
 ---
 ## 📈 Mis estadísticas en GitHub  
 ![Ariel Gallardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariel-gallardo&show_icons=true&theme=dark)  
 ---
-📫 **Podés contactarme en:**  
+📫 **Podés contactarme en:** 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-alejandro-gallardo-dev/)  
 - [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariel.gallardo.dev@gmail.com)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492616557585)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492615343999)
 - [![Discord](https://img.shields.io/badge/Discord-Invitame-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1001120965650038904)
