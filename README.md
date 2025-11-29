@@ -27,10 +27,13 @@
 - 🔹 [Restaurante App](https://github.com/ariel-gallardo/restaurante) - AngularJS | Angular | React | .Net Core | WebSockets | Entity Framework | NHibernate | MSSQL DB | LINQ | Patron Repository | Swagger | Patron UnitOfWork | Maps Google | Redis
 ![image](https://github.com/user-attachments/assets/9d8104f1-66f9-4adf-858c-68c2e2ff7f14)
 
-- 🔹 [Test A - CargoPay](https://github.com/ariel-gallardo/cargopay) - Entrevista tecnica C# | .NET | DI | MSSQL | LINQ
+- 🔹 [Test A - Primo](https://github.com/ariel-gallardo/cargopay) - Entrevista tecnica C# | .NET | DI | MSSQL | LINQ
 - 🔹 [Test B - Axoft](https://github.com/ariel-gallardo/programming-test) - Entrevista tecnica Axoft
-- 🔹 [Test C - CargoPay - MySQL](https://github.com/ariel-gallardo/cargopay/tree/mysql) - Entrevista tecnica C# | .NET | DI | MySQL | LINQ
-- 🔹 [Test C - CargoPay - Angular](https://bitbucket.org/ariel-developer/technical-tests-frontend-ssr/src/development/) - Entrevista tecnica RxJS | PrimeNG | NgRx
+- 🔹 [Test C - Evoltis - MySQL](https://github.com/ariel-gallardo/cargopay/tree/mysql) - Entrevista tecnica C# | .NET | DI | MySQL | LINQ
+- 🔹 [Test C - Evoltis - Angular](https://bitbucket.org/ariel-developer/technical-tests-frontend-ssr/src/development/) - Entrevista tecnica RxJS | PrimeNG | NgRx
+- 🔹 [Test D - Yappa - Backend .Net](https://github.com/ariel-gallardo/ecommerce-aspire/tree/yappa-challenge) - Aspire .Net | Microservicios | MySql | Redis | Patron DTO | Patron Repository | DI (Common Controllers | Services) | CleanCode | Proyecto Modularizado por capas 
+- 🔹 [Test D - Yappa - Frontend](https://github.com/ariel-gallardo/yappachallenge-frontend) - Angular | RxJS
+- 🔹 [Test D - OpenApiGenerator](https://github.com/ariel-gallardo/clean-code-openapi) - Generador de servicios con RXJS listos para consumir en angular
 - 🔹 [Plantilla Clean Code](https://github.com/ariel-gallardo/clean-code) - Repositorio personal que aplica principios de Clean Code para crear software que es más fácil de leer, mantener y escalar. La adopción de este enfoque mejora la calidad del trabajo, acelera el desarrollo, reduce el tiempo de incorporación de nuevos desarrolladores y disminuye la aparición de errores.
 ---
 ## 📄 Mi Currículum
