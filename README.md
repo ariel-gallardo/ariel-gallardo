@@ -41,6 +41,22 @@
   👉 <https://github.com/ariel-gallardo/OT121-SERVER>  
   Unit of Work | Entity Framework | DI | .NET Core | SQL Server | Swagger
 
+- 🔹 **Social App – Frontend**  
+  👉 <https://github.com/ariel-gallardo/social-frontend>  
+  Frontend application for the social platform, focused on UI interactions and user experience.
+
+- 🔹 **Social App – Backend**  
+  👉 <https://github.com/ariel-gallardo/social-backend>  
+  Backend API for the social platform with authentication, business logic, and data persistence.
+
+- 🔹 **Banking System**  
+  👉 <https://github.com/ariel-gallardo/sistema-bancario>  
+  Banking management system with core modules for accounts, operations, and transaction control.
+
+- 🔹 **Ticket System**  
+  👉 <https://github.com/ariel-gallardo/ticket-sys>  
+  Ticket management system for incident tracking, status workflow, and user support processes.
+
 - 🔹 **Restaurant App**  
   👉 <https://github.com/ariel-gallardo/restaurante>  
   AngularJS | Angular | React | .NET Core | WebSockets | Entity Framework | NHibernate | MSSQL | LINQ | Repository Pattern | Swagger | UnitOfWork | Google Maps | Redis  
