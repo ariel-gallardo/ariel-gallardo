@@ -2,9 +2,12 @@
 
 💻 Developer specialized in **.NET** with experience in:  
 - 🛠 **Backend:** .NET | NHibernate ORM | Entity Framework | MSSQL Server  
+- ☕ **Java Backend:** Java | Spring Boot | Spring Data | Spring Security  
 - 💾 **Operating Systems:** Windows | Linux  
 - 🌐 **Frontend:** HTML | CSS | JavaScript | NodeJS | AngularJS | Angular | React  
 - 🔗 **Version Control:** Git | GitHub  
+
+🌐 **Portfolio:** <https://ariel-dev.vercel.app/>  
 
 ---
 
@@ -14,6 +17,17 @@
 - 📜 **Degree:** Higher Technician in Programming  
 - 📅 **Graduation Year:** 2021  
 - 🔗 [View Certification](https://drive.google.com/file/d/1TGpKgvYtLeEhdUbAFDRrZydnTt_swbdq/view?usp=sharing)  
+
+---
+
+## 🏅 Certifications
+
+- 🔹 **Python – Santander Río**  
+  👉 <https://drive.google.com/file/d/1A3XH5_kW6JyBWbrrI9ky_nYNteVf3RW7/view?usp=drive_link>
+
+- 🔹 **Alkemy Challenge**
+
+- 🔹 **FreeCodeCamp – .NET Developer**
 
 ---
 
@@ -76,6 +90,10 @@
 
 ## 🌐 Highlighted Live Projects
 
+- 🔹 **Ecommerce React – Demo Project**  
+  🔗 Live: <https://ecommerce-react-one-beryl.vercel.app/>  
+  📦 Repo: <https://github.com/ariel-gallardo/ecommerce-react>
+
 - 🔹 **HTML5 - CSS3 - JavaScript - Advanced Web Development Course (UBA – CER-J30M663M-833440)**  
   🔗 Live: <https://resonant-lollipop-36def1.netlify.app>  
   📦 Repo: <https://github.com/ariel-gallardo/curso-utn-frba>
@@ -103,7 +121,7 @@
 
 ## 📄 My Resume  
 📌 **Download (PDF):**  
-<https://drive.google.com/file/d/12ih5snPXEBAMMZ7LJXkpfS4eWxXsKEgC/view?usp=sharing>
+<https://drive.google.com/file/d/15r99mqHnE5rkwNmAXZHdExtBTfh385_t/view?usp=sharing>
 
 ---
 
@@ -115,6 +133,6 @@
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-alejandro-gallardo-dev/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariel.gallardo.dev@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492615343999)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492616557585)  
 [![Discord](https://img.shields.io/badge/Discord-Invite-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1001120965650038904)
 
