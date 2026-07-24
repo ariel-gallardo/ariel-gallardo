@@ -1,154 +1,144 @@
-# 👋 Hi! I'm Ariel Gallardo  
+# 👋 ¡Hola! Soy Ariel Gallardo
 
-💻 Developer specialized in **.NET** with experience in:  
-- 🛠 **Backend:** .NET | NHibernate ORM | Entity Framework | MSSQL Server  
-- ☕ **Java Backend:** Java | Spring Boot | Spring Data | Spring Security  
-- 💾 **Operating Systems:** Windows | Linux  
-- 🌐 **Frontend:** HTML | CSS | JavaScript | NodeJS | AngularJS | Angular | React  
-- 🔗 **Version Control:** Git | GitHub  
-
-🌐 **Portfolio:** <https://ariel-dev.vercel.app/>  
+Desarrollador **Full Stack** enfocado en el diseño y desarrollo de arquitecturas escalables, consumo y creación de APIs REST y patrones de diseño (MVC / MVVM / Clean Architecture).
 
 ---
 
-## 📚 Academic Background
-- 🏫 **Institution:**  
-  [![FRM UTN Mendoza](https://www4.frm.utn.edu.ar/wp-content/uploads/2021/05/logo-1.png)](https://www4.frm.utn.edu.ar/)
-- 📜 **Degree:** Higher Technician in Programming  
-- 📅 **Graduation Year:** 2021  
-- 🔗 [View Certification](https://drive.google.com/file/d/1TGpKgvYtLeEhdUbAFDRrZydnTt_swbdq/view?usp=sharing)  
+## 💡 Sobre mí
+- 💻 **Experiencia laboral:** +3 años como desarrollador Full Stack (.NET, Java, Node.js & Angular).
+- ⚙️ **Enfoque técnico:** Arquitectura limpia, desarrollo de APIs RESTful, diseño de base de datos y UI interactiva.
+- 🐧 **Entorno de trabajo habitual:** Linux (Debian) | WSL2 | Docker | Vim.
 
 ---
 
-## 🏅 Certifications
+## 🛠️ Stack Tecnológico
 
-- 🔹 **Python – Santander Río**  
-  👉 <https://drive.google.com/file/d/1A3XH5_kW6JyBWbrrI9ky_nYNteVf3RW7/view?usp=drive_link>
+### 🟢 Backend & APIs
+- **C# / .NET:** .NET Core | ASP.NET | Entity Framework Core | NHibernate ORM | LINQ
+- **Java:** Java | Spring Boot | Spring Data | Spring Security
+- **Node.js & TypeScript:** Node.js (v18+) | NestJS | Express
+- **Python:** Python | Flask | SQLAlchemy (ORM)
+- **Conceptos:** REST APIs | Microservicios | Inyección de Dependencias | Monolitos Modulares | MVC / MVVM
 
-- 🔹 **Alkemy Challenge**
+### 🔵 Frontend & UI
+- **Frameworks / Librerías:** Angular (14+) | React | AngularJS | Next.js
+- **Lenguajes:** TypeScript | JavaScript (ES6+) | HTML5 | CSS3
+- **UI Frameworks & Estilos:** PrimeNG | PrimeFlex | TailwindCSS | RxJS | NgRx / Redux
 
-- 🔹 **FreeCodeCamp – .NET Developer**
+### 💾 Bases de Datos & Caché
+- **Relacionales:** PostgreSQL (16.5) | Microsoft SQL Server | MySQL
+- **ORMs:** TypeORM | Entity Framework | NHibernate | SQLAlchemy
+- **NoSQL & Caché:** Redis
 
----
-
-## 🚀 Highlighted Projects – GitHub Repos
-
-- 🔹 **Microsoft SQL Server Queries**  
-  👉 <https://github.com/ariel-gallardo/base-de-datos>  
-  Complement of SQL queries for the final project at FRM UTN MZA.
-
-- 🔹 **Alkemy Acceleration C#**  
-  👉 <https://github.com/ariel-gallardo/OT121-SERVER>  
-  Unit of Work | Entity Framework | DI | .NET Core | SQL Server | Swagger
-
-- 🔹 **Social App – Frontend**  
-  👉 <https://github.com/ariel-gallardo/social-frontend>  
-  Frontend application for the social platform, focused on UI interactions and user experience.
-
-- 🔹 **Social App – Backend**  
-  👉 <https://github.com/ariel-gallardo/social-backend>  
-  Backend API for the social platform with authentication, business logic, and data persistence.
-
-- 🔹 **Banking System**  
-  👉 <https://github.com/ariel-gallardo/sistema-bancario>  
-  Banking management system with core modules for accounts, operations, and transaction control.
-
-- 🔹 **Ticket System**  
-  👉 <https://github.com/ariel-gallardo/ticket-sys>  
-  Ticket management system for incident tracking, status workflow, and user support processes.
-
-- 🔹 **Restaurant App**  
-  👉 <https://github.com/ariel-gallardo/restaurante>  
-  AngularJS | Angular | React | .NET Core | WebSockets | Entity Framework | NHibernate | MSSQL | LINQ | Repository Pattern | Swagger | UnitOfWork | Google Maps | Redis  
-
-  ![image](https://github.com/user-attachments/assets/9d8104f1-66f9-4adf-858c-68c2e2ff7f14)
+### 🧰 Herramientas, DevOps & Sistemas
+- **Control de Versiones:** Git | GitHub | Bitbucket
+- **Sistemas Operativos:** Linux (Debian) | Windows
+- **DevOps & Containers:** Docker | WSL2 | OpenAPI / Swagger
+- **Generación de Código:** OpenAPI Service Generator (Angular / RxJS)
 
 ---
 
-## 🧪 Technical Tests (Pruebas Técnicas)
+## 📚 Formación Académica
 
-- 🔹 **Technical Test A – Primo**  
-  👉 <https://github.com/ariel-gallardo/cargopay>  
-  C# | .NET | DI | MSSQL | LINQ  
-
-- 🔹 **Technical Test B – Axoft**  
-  👉 <https://github.com/ariel-gallardo/programming-test>
-
-- 🔹 **Technical Test C – Evoltis (MySQL)**  
-  👉 <https://github.com/ariel-gallardo/cargopay/tree/mysql>  
-  C# | .NET | DI | MySQL | LINQ  
-
-- 🔹 **Technical Test C – Evoltis (Angular)**  
-  👉 <https://bitbucket.org/ariel-developer/technical-tests-frontend-ssr/src/development/>  
-  RxJS | PrimeNG | NgRx  
-
-- 🔹 **Technical Test D – Yappa (Backend .NET)**  
-  👉 <https://github.com/ariel-gallardo/ecommerce-aspire/tree/yappa-challenge>  
-  .NET Aspire | Microservices | MySQL | Redis | DTO Pattern | Repository Pattern | Modular Architecture | Clean Code  
-
-- 🔹 **Technical Test D – Yappa (Frontend)**  
-  👉 <https://github.com/ariel-gallardo/yappachallenge-frontend>  
-  Angular | RxJS  
+- 🏫 **Institución:**  
+  [![FRM UTN Mendoza](https://www4.frm.utn.edu.ar/wp-content/uploads/2021/05/logo-1.png)](https://www4.frm.utn.edu.ar/)  
+  **Universidad Tecnológica Nacional – Facultad Regional Mendoza**
+- 📜 **Título:** Técnico Superior en Programación  
+- 🎓 **Año de Graduación:** 2021  
+- 🔗 [Ver Certificación Académica](https://drive.google.com/file/d/1TGpKgvYtLeEhdUbAFDRrZydnTt_swbdq/view?usp=sharing)
 
 ---
 
-## 🧰 Tools & Generators
+## 🏅 Certificaciones & Logros
 
-- 🔹 **OpenAPI Service Generator**  
-  👉 <https://github.com/ariel-gallardo/clean-code-openapi>  
-  Generates Angular-ready RxJS services automatically.
-
-- 🔹 **Clean Code Template**  
-  👉 <https://github.com/ariel-gallardo/clean-code>  
-  Repository applying Clean Code principles for scalable and maintainable software.
+- 🔹 **Python** – Santander Río / UTN  
+  👉 [Ver Certificado](https://drive.google.com/file/d/1A3XH5_kW6JyBWbrrI9ky_nYNteVf3RW7/view?usp=drive_link)
+- 🔹 **Alkemy Challenge** – Aceleración .NET / C#
+- 🔹 **FreeCodeCamp** – .NET Developer Certification
 
 ---
 
-## 🌐 Highlighted Live Projects
+## 🚀 Proyectos Destacados (GitHub Repos)
 
-- 🔹 **Ecommerce React – Demo Project**  
-  🔗 Live: <https://ecommerce-react-one-beryl.vercel.app/>  
-  📦 Repo: <https://github.com/ariel-gallardo/ecommerce-react>
+### 🔹 Restaurante App
+> AngularJS | Angular | React | .NET Core | WebSockets | Entity Framework | NHibernate | MSSQL | LINQ | Repository Pattern | Redis  
+👉 Repo: [restaurante](https://github.com/ariel-gallardo/restaurante)
 
-- 🔹 **HTML5 - CSS3 - JavaScript - Advanced Web Development Course (UBA – CER-J30M663M-833440)**  
-  🔗 Live: <https://resonant-lollipop-36def1.netlify.app>  
-  📦 Repo: <https://github.com/ariel-gallardo/curso-utn-frba>
+### 🔹 Social App
+> Plataforma social con arquitectura desacoplada, autenticación y consumo de API REST.  
+👉 Frontend: [social-frontend](https://github.com/ariel-gallardo/social-frontend)  
+👉 Backend (Java / Spring Boot): [social-backend](https://github.com/ariel-gallardo/social-backend)
 
-- 🔹 **Teaching Hours Finder**  
-  🔗 Live: <https://voluble-duckanoo-6bb708.netlify.app>  
-  📦 Repo: <https://github.com/ariel-gallardo/buscador-gobierno>  
+### 🔹 Alkemy Acceleration C#
+> API REST implementando Unit of Work, Repository Pattern y Swagger.  
+👉 Repo: [OT121-SERVER](https://github.com/ariel-gallardo/OT121-SERVER)
 
-- 🔹 **Angular Hero Tutorial**  
-  🔗 Live: <https://modest-snyder-c038f2.netlify.app/heroes>  
-  📦 Repo: <https://github.com/ariel-gallardo/heroes-angular>
+### 🔹 Sistema Bancario
+> Sistema de gestión bancaria enfocado en operaciones de cuenta y transacciones.  
+👉 Repo: [sistema-bancario](https://github.com/ariel-gallardo/sistema-bancario)
 
-- 🔹 **Musical Hendrix**  
-  🔗 Live: <https://kind-albattani-d52882.netlify.app>  
-  📦 Repo: <https://github.com/ariel-gallardo/labo4-tp5>
+### 🔹 Ticket System
+> Sistema de gestión y seguimiento de incidentes con flujo de estados.  
+👉 Repo: [ticket-sys](https://github.com/ariel-gallardo/ticket-sys)
 
-- 🔹 **React Hooks**  
-  🔗 Live: <https://react-hooks-ariel.vercel.app/>  
-  Next.js | React | TailwindCSS
-
-- 🔹 **Advanced Angular Course – Signals / SSR**  
-  🔗 Live: <https://curso-angular-avanzado-ariel.vercel.app/>
+### 🔹 Consultas Avanzadas MSSQL Server
+> Repositorio de consultas y scripts SQL desarrollados durante la carrera.  
+👉 Repo: [base-de-datos](https://github.com/ariel-gallardo/base-de-datos)
 
 ---
 
-## 📄 My Resume  
-📌 **Download (PDF):**  
-<https://drive.google.com/file/d/15r99mqHnE5rkwNmAXZHdExtBTfh385_t/view?usp=sharing>
+## 🧪 Pruebas Técnicas & Desafíos
+
+- 🔹 **Evolutic / Yappa (.NET Aspire & Angular):** Microservicios con .NET Aspire, Redis, MySQL y Angular RxJS.  
+  👉 Backend: [ecommerce-aspire](https://github.com/ariel-gallardo/ecommerce-aspire/tree/yappa-challenge) | Frontend: [yappachallenge-frontend](https://github.com/ariel-gallardo/yappachallenge-frontend)
+- 🔹 **Evoltis (Angular & MySQL):**  
+  👉 Frontend (RxJS / PrimeNG / NgRx): [Bitbucket Repo](https://bitbucket.org/ariel-developer/technical-tests-frontend-ssr/src/development/)  
+  👉 Backend (.NET / MySQL): [cargopay (mysql)](https://github.com/ariel-gallardo/cargopay/tree/mysql)
+- 🔹 **Primo (.NET & MSSQL):** C# | .NET | DI | LINQ.  
+  👉 Repo: [cargopay](https://github.com/ariel-gallardo/cargopay)
+- 🔹 **Axoft:** Prueba técnica de lógica y programación.  
+  👉 Repo: [programming-test](https://github.com/ariel-gallardo/programming-test)
 
 ---
 
-## 📈 GitHub Stats  
-![Ariel Gallardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariel-gallardo&show_icons=true&theme=dark)
+## 🧰 Herramientas & Plantillas Creadas
+
+- 🔹 **OpenAPI Service Generator:** Genera servicios RxJS listos para Angular a partir de especificaciones OpenAPI.  
+  👉 Repo: [clean-code-openapi](https://github.com/ariel-gallardo/clean-code-openapi)
+- 🔹 **Clean Code Template:** Plantilla base aplicando principios Clean Code y SOLID para proyectos en C#.  
+  👉 Repo: [clean-code](https://github.com/ariel-gallardo/clean-code)
 
 ---
 
-## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-alejandro-gallardo-dev/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariel.gallardo.dev@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492616557585)  
+## 🌐 Proyectos Desplegados (Live Demos)
+
+- 🛍️ **Ecommerce React Demo:** [Live Demo](https://ecommerce-react-one-beryl.vercel.app/) | [Repo](https://github.com/ariel-gallardo/ecommerce-react)
+- 🌐 **Desarrollo Web Avanzado (UBA / UTN):** [Live Demo](https://resonant-lollipop-36def1.netlify.app) | [Repo](https://github.com/ariel-gallardo/curso-utn-frba)
+- 🏫 **Buscador de Horas Docentes:** [Live Demo](https://voluble-duckanoo-6bb708.netlify.app) | [Repo](https://github.com/ariel-gallardo/buscador-gobierno)
+- 🦸 **Angular Tour of Heroes:** [Live Demo](https://modest-snyder-c038f2.netlify.app/heroes) | [Repo](https://github.com/ariel-gallardo/heroes-angular)
+- 🎸 **Musical Hendrix:** [Live Demo](https://kind-albattani-d52882.netlify.app) | [Repo](https://github.com/ariel-gallardo/labo4-tp5)
+- ⚡ **React Hooks + Next.js + Tailwind:** [Live Demo](https://react-hooks-ariel.vercel.app/)
+- 🅰️ **Angular Avanzado (Signals & SSR):** [Live Demo](https://curso-angular-avanzado-ariel.vercel.app/)
+
+---
+
+## 📄 CV / Resume
+
+📌 **Descargar Curriculum Vitae (PDF):**  
+👉 [Ver / Descargar CV](https://drive.google.com/file/d/15r99mqHnE5rkwNmAXZHdExtBTfh385_t/view?usp=sharing)
+
+---
+
+## 📈 GitHub Stats
+
+![Estadísticas de GitHub de Ariel Gallardo](https://github-readme-stats.vercel.app/api?username=ariel-gallardo&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contacto
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ariel-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-alejandro-gallardo-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariel.gallardo.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5492616557585)
 [![Discord](https://img.shields.io/badge/Discord-Invite-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1001120965650038904)
-
