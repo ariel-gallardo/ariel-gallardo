@@ -122,13 +122,6 @@ Desarrollador **Full Stack** enfocado en el diseño y desarrollo de arquitectura
 
 ---
 
-## 📄 CV / Resume
-
-📌 **Descargar Curriculum Vitae (PDF):**  
-👉 [Ver / Descargar CV](https://drive.google.com/file/d/15r99mqHnE5rkwNmAXZHdExtBTfh385_t/view?usp=sharing)
-
----
-
 ## 📈 GitHub Stats
 
 ![Estadísticas de GitHub de Ariel Gallardo](https://github-readme-stats.vercel.app/api?username=ariel-gallardo&show_icons=true&theme=dark)
